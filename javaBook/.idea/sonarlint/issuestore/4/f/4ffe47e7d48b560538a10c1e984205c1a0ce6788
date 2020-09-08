@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ìõ²
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(º¥ÇT
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß¯”Åûÿÿÿÿ
+>
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -1,0 +1,8 @@
+
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(˜™‘–8¯ÄÀâ·.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ¿â·.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(§‘8²áÅâ·.
+q
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¶ÔŠ²ùÿÿÿÿ8²áÅâ·.

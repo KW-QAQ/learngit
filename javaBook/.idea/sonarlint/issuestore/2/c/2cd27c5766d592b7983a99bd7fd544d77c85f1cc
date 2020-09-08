@@ -1,0 +1,13 @@
+
+\
+java:S22593"AA "NullPointerException" could be thrown; "raf" is nullable here.(Ü™±Ýýÿÿÿÿ
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.( ßÄï
+>
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(åÕ¯ù
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ì©¥Ñ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ß¯”Åûÿÿÿÿ

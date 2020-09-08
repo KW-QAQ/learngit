@@ -1,0 +1,16 @@
+
+]	java:S125&"<This block of commented-out lines of code should be removed.(Œ³®Íúÿÿÿÿ8³—ØÁ½.
+X	java:S125*"<This block of commented-out lines of code should be removed.(†£äÛ8³—ØÁ½.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒØ§‹ÿÿÿÿÿ
+E
+java:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ‡àÁ½.
+X	java:S125."<This block of commented-out lines of code should be removed.(õŒ¨Ó8´—ØÁ½.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Ğ­‘Àüÿÿÿÿ8İ‡àÁ½.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(æèƒíùÿÿÿÿ8ìÙÜÁ½.
+W
+java:S1141="5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8İ‡àÁ½.
+E
+java:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÒÚÁ½.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(æèƒíùÿÿÿÿ8å­áÁ½.
+X	java:S125("<This block of commented-out lines of code should be removed.(õÆÅò8³—ØÁ½.
+Q	java:S125!"<This block of commented-out lines of code should be removed.(¦˜Ûù

@@ -1,0 +1,19 @@
+
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ýýßã8äÖ‘õº.
+a
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ä ¹€8£ø•õº.
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8“Ñ˜õº.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ß¹”õº.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8£ø•õº.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8äÖ‘õº.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8“Ñ˜õº.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8£ø•õº.
+a
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ï­£Ä8ß¹”õº.

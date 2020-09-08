@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€Ë¾Âúÿÿÿÿ8¿’¨Á.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á¸Ä¹8æÔ“¨Á.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÒP8İãˆ¨Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û±ÍËûÿÿÿÿ8«œ¨Á.
+\
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8¥à¨Á.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¬¥Î8”Á¨Á.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ´»»ıÿÿÿÿ

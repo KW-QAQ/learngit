@@ -1,0 +1,7 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(İ¹—8èÜÕ€º.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ãğÿ8ÉÆùş¹.
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(şÒËÛ8ÅÓñş¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿöïş¹.

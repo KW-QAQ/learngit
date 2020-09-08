@@ -1,0 +1,16 @@
+
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ’éÂ½.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(æèƒíùÿÿÿÿ8£ïêÂ½.
+V
+java:S22746":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8«ÄõÂ½.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(æèƒíùÿÿÿÿ8»ñ÷Â½.
+O
+java:S1068"-Remove this unused "accountNo" private field.(Ø«ÌÒùÿÿÿÿ8äúßÂ½.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ñ­ ³ûÿÿÿÿ8»ñ÷Â½.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ı¯£
+E
+java:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ä¼òÂ½.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ğ­‘Àüÿÿÿÿ8˜àëÂ½.
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ˆ’éÂ½.

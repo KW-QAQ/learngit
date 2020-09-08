@@ -1,0 +1,59 @@
+#SystemPro
+尼玛这了尼玛这了尼玛这了尼玛这了尼玛这了
+啊啊啊啊尼玛这了aaaperties
+#Sun Jul 12 11:18:17 CST 2020
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=E\:\\java_64\\jdk1.8_64\\jre\\bin
+java.vm.version=25.181-b13
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http\://java.oracle.com/
+path.separator=;
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=CN
+user.script=
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=F\:\\Idea_Workplace\\javaBook
+java.runtime.version=1.8.0_181-b13
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=E\:\\java_64\\jdk1.8_64\\jre\\lib\\endorsed
+os.arch=amd64
+java.io.tmpdir=C\:\\Users\\Dell\\AppData\\Local\\Temp\\
+line.separator=\r\n
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 10
+sun.jnu.encoding=GBK
+java.library.path=E\:\\java_64\\jdk1.8_64\\bin;C\:\\WINDOWS\\Sun\\Java\\bin;C\:\\WINDOWS\\system32;C\:\\WINDOWS;E\:\\Xshell 6\\;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\WINDOWS\\System32\\OpenSSH\\;E\:\\java_64\\jdk1.8_64\\bin;.;E\:\\java_64\\jdk1.8_64\\lib\\tools.jar;E\:\\java_64\\jdk1.8_64\\lib\\dt.jar;D\:\\DNclass\\maven3.6\\bin;E\:\\MySQL\\MySQL Server 5.5\\bin;E\:\\Git\\bin;E\:\\Git\\mingw64\\libexec\\git-core;D\:\\nodejs\\;D\:\\nodejs\\node_global;E\:\\SlikSvn\\bin;E\:\\apache-cxf-3.3.5\\bin;E\:\\TortoiseSVN\\bin;C\:\\Program Files\\TortoiseGit\\bin;E\:\\java_64\\jre_64\\bin;E\:\\Microsoft_SQL_Server\\sqlServer_32\\100\\Tools\\Binn\\;E\:\\Microsoft_SQL_Server\\sqlServer_64\\100\\Tools\\Binn\\;E\:\\Microsoft_SQL_Server\\sqlServer_64\\100\\DTS\\Binn\\;E\:\\Microsoft_SQL_Server\\sqlServer_32\\100\\Tools\\Binn\\VSShell\\Common7\\IDE\\;C\:\\Program Files (x86)\\Microsoft Visual Studio 9.0\\Common7\\IDE\\PrivateAssemblies\\;E\:\\Microsoft_SQL_Server\\sqlServer_32\\100\\DTS\\Binn\\;E\:\\Keyboard;D\:\\Gradle\\gradle-3.1\\bin;C\:\\Users\\Dell\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\Users\\Dell\\AppData\\Roaming\\npm;.
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=10.0
+user.home=C\:\\Users\\Dell
+user.timezone=Asia/Shanghai
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=UTF-8
+java.specification.version=1.8
+java.class.path=E\:\\java_64\\jdk1.8_64\\jre\\lib\\charsets.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\deploy.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\access-bridge-64.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\cldrdata.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\dnsns.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\jaccess.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\jfxrt.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\localedata.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\nashorn.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\sunec.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\sunjce_provider.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\sunmscapi.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\sunpkcs11.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext\\zipfs.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\javaws.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jce.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jfr.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jfxswt.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jsse.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\management-agent.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\plugin.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\resources.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\rt.jar;F\:\\Idea_Workplace\\javaBook\\out\\production\\javaBook;E\:\\Intelji Idea\\IntelliJ IDEA 2019.1.3\\lib\\idea_rt.jar
+user.name=Dell
+java.vm.specification.version=1.8
+sun.java.command=nine.TestSystem
+java.home=E\:\\java_64\\jdk1.8_64\\jre
+sun.arch.data.model=64
+user.language=zh
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_181
+java.ext.dirs=E\:\\java_64\\jdk1.8_64\\jre\\lib\\ext;C\:\\WINDOWS\\Sun\\Java\\lib\\ext
+sun.boot.class.path=E\:\\java_64\\jdk1.8_64\\jre\\lib\\resources.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\rt.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\sunrsasign.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jsse.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jce.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\charsets.jar;E\:\\java_64\\jdk1.8_64\\jre\\lib\\jfr.jar;E\:\\java_64\\jdk1.8_64\\jre\\classes
+java.vendor=Oracle Corporation
+file.separator=\\
+java.vendor.url.bug=http\://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=amd64
+追加的内容！追加的内容！

@@ -1,0 +1,21 @@
+
+p
+java:S1192"SDefine a constant instead of duplicating this literal "å½“å‰çº¿ç¨‹åï¼š" 4 times.(§«Íû8òòøÁ½.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒØ§‹ÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§«Íû8òòøÁ½.
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8ØæùÁ½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§«Íû8­©úÁ½.
+E
+java:S1148
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´®öÁ½.
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8´®öÁ½.
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(åí²q8ıÓüÁ½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Â·œê8´®öÁ½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§«Íû8Ò¨ñÁ½.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(À¡Œúÿÿÿÿ8‹„Â½.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØæùÁ½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§«Íû8´®öÁ½.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(şĞÚ úÿÿÿÿ8»ö‚Â½.

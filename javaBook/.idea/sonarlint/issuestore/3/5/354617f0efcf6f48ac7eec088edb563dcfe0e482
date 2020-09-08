@@ -1,0 +1,27 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ƒÒà«Á.
+Z
+java:S3972„"7Move this "if" to a new line or add the missing "else".(½º’íûÿÿÿÿ8²Û«Á.
+E
+java:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹˜«Á.
+L
+java:S2093!"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8èç«Á.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ˆ×°—8€ÓŒ«Á.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8ƒÒà«Á.
+L
+java:S2093\"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8²Û«Á.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØØƒùÿÿÿÿ
+F
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²Û«Á.
+9
+java:S1643{"Use a StringBuilder instead.(˜ÏĞµ8°¬Ø«Á.
+E
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ÓŒ«Á.
+V
+java:S28644"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8€ÓŒ«Á.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(ğÂè‚8‘’Ù«Á.
+9
+java:S1643?"Use a StringBuilder instead.(˜ÏĞµ8€ÓŒ«Á.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ¤£«Á.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÛïÖşÿÿÿÿ8€ÓŒ«Á.

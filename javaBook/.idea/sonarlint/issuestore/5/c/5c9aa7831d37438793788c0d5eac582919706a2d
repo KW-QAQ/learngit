@@ -1,0 +1,10 @@
+
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¶ÜÚÒ8¶¢Ýóº.
+E
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ª×Ìóº.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ç¦áíúÿÿÿÿ8ª×Ìóº.
+\
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(§ˆå“øÿÿÿÿ8Ížàóº.
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ˆâäºþÿÿÿÿ8Äš×óº.

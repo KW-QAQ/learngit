@@ -1,0 +1,6 @@
+
+\
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(ç¨œZ8Ø¥¡ûº.
+G
+java:S1068"%Remove this unused "i" private field.(ß÷­äüÿÿÿÿ8»° ûº.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ê
