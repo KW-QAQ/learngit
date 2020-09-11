@@ -198,3 +198,11 @@ e
 5src/threadDemo/threadFactory/DaemonThreadFactory.java,9\4\94c911d2db3216f45f58d357b5c842fd5446e25c
 T
 $src/threadDemo/ThreadVariations.java,d\4\d4d2af19725ee36de06f039c93d27989b1142b89
+N
+src/packageClass/textDemo.java,6\2\6217c8c5e82d54e2f0b90ea64f072926f9e9a64b
+X
+(src/packageClass/AutoBoxingUnboxing.java,7\5\755f6d2299291773fa46707bb785bc7ea433d85a
+V
+&src/packageClass/Primitive2String.java,1\7\1700e424fc80de0e083149f1216fcf251e910ceb
+L
+src/Object/CompareClass.java,1\2\128a0da63f12f8005bd28eb97ecded5bac169db5

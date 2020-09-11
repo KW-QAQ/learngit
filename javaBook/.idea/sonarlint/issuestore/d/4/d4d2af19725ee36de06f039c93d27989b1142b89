@@ -1,30 +1,30 @@
 
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8ÚÎı™Ç.
 E
 java:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÃšÇ.
-W
-java:S1161":Add the "@Override" annotation above this method signature(Á»›ê8ïÿ™Ç.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î8ÚÎı™Ç.
-M
-java:S1172h"+Remove this unused method parameter "name".(¹­Üşÿÿÿÿÿ8ÃšÇ.
 F
 java:S1068")Remove this unused "inner" private field.(Ö¸ˆ8ŒÏõ™Ç.
 E
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÎı™Ç.
-F
-java:S1068D")Remove this unused "inner" private field.(Ö¸ˆ8Œï¶šÇ.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ê
-W
-java:S1161,":Add the "@Override" annotation above this method signature(“–ış8×²•šÇ.
-E
 java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×²•šÇ.
-]
-java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8ÚÎı™Ç.
+M
+java:S1172h"+Remove this unused method parameter "name".(¹­Üşÿÿÿÿÿ8ÃšÇ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î8ÚÎı™Ç.
 W
-java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÿå÷™Ç.
-U	java:S106n"9Replace this use of System.out or System.err by a logger.(¿è®Î8ÃšÇ.
-U	java:S106/"9Replace this use of System.out or System.err by a logger.(¿è®Î8×²•šÇ.
-U	java:S106P"9Replace this use of System.out or System.err by a logger.(¿è®Î8İ°·šÇ.
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê8ïÿ™Ç.
 E
 java:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ°·šÇ.
 W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÿå÷™Ç.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¿è®Î8×²•šÇ.
+W
 java:S11619":Add the "@Override" annotation above this method signature(Á»›ê8×²•šÇ.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¿è®Î8İ°·šÇ.
+W
+java:S1161,":Add the "@Override" annotation above this method signature(“–ış8×²•šÇ.
+F
+java:S1068D")Remove this unused "inner" private field.(Ö¸ˆ8Œï¶šÇ.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(¿è®Î8ÃšÇ.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÎı™Ç.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ê

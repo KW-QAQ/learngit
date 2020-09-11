@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="143c62aa-b93a-4763-b997-20b8f549eae8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/Callable/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/Callable/TaskWithResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/ThreadVariations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/executor/CachedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/executor/FixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/executor/LiftOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/executor/SingleThreadExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadDemo/threadFactory/DaemonThreadFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ed64721d0724e0a528d406c6cb81f24c6da486d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ed64721d0724e0a528d406c6cb81f24c6da486d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/731cca1051050e033b431a56bd06312fb63ef09e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/731cca1051050e033b431a56bd06312fb63ef09e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfb04df3c74cab7adaf9cd23b7221bb1a69a8a83" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfb04df3c74cab7adaf9cd23b7221bb1a69a8a83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/CompareClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageClass/AutoBoxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageClass/Primitive2String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packageClass/textDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e345725af531b54cbcaf1abd0a9f2ddf1bacf47" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e345725af531b54cbcaf1abd0a9f2ddf1bacf47" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/500d8713bfaecdbb2b3d01be819e46ff561ac7ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/500d8713bfaecdbb2b3d01be819e46ff561ac7ee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4d2af19725ee36de06f039c93d27989b1142b89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4d2af19725ee36de06f039c93d27989b1142b89" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0bc05ebb37920f7dbede507eee36f05d6349f43" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0bc05ebb37920f7dbede507eee36f05d6349f43" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e91adeb733ec7290cd7092db2040e9daecda9c97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e91adeb733ec7290cd7092db2040e9daecda9c97" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBook/META-INF/javaBook.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBook/threadDemo/ThreadVariations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBook/threadDemo/ThreadVariations.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,36 +28,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/executor/LiftOff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="28" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/DaemonThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/threadFactory/DaemonThreadFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/threadDemo/ThreadVariations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
+            <state relative-caret-position="304">
               <caret line="17" column="43" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,63 +48,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Thread.java">
+        <entry file="file://$PROJECT_DIR$/src/packageClass/textDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20425">
-              <caret line="1140" column="24" selection-start-line="1140" selection-start-column="24" selection-end-line="1140" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/packageClass/AutoBoxingUnboxing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/packageClass/Primitive2String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Object/CompareClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Long.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10526">
+              <caret line="586" selection-start-line="586" selection-end-line="586" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121676">
+              <caret line="6510" selection-start-line="6510" selection-end-line="6510" />
               <folding>
-                <element signature="e#43969#43970#0" expanded="true" />
-                <element signature="e#43996#43997#0" expanded="true" />
+                <element signature="e#151504#151505#0" expanded="true" />
+                <element signature="e#151538#151539#0" expanded="true" />
+                <element signature="e#233965#233966#0" expanded="true" />
+                <element signature="e#236253#236254#0" expanded="true" />
+                <element signature="e#236327#236328#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/executor/CachedThreadPool.java">
+        <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/CharacterDataLatin1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="2831">
+              <caret line="175" selection-start-line="175" selection-end-line="175" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/executor/FixedThreadPool.java">
+        <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/CharacterData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/Callable/TaskWithResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="15" />
-              <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadDemo/Callable/CallableDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="760">
+              <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -165,6 +150,7 @@
       <find>true</find>
       <find>aaa</find>
       <find>ih</find>
+      <find>Character(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,10 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/fifteen/decode/CharsetTest.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/decode/CharsetTransform.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/lock/FileLockTest.java" />
-        <option value="$PROJECT_DIR$/a.txt" />
         <option value="$PROJECT_DIR$/src/threadDemo/FirstThread.java" />
         <option value="$PROJECT_DIR$/src/threadDemo/InvokeRun.java" />
         <option value="$PROJECT_DIR$/src/threadDemo/StartDead.java" />
@@ -224,6 +206,10 @@
         <option value="$PROJECT_DIR$/src/threadDemo/executor/LiftOff.java" />
         <option value="$PROJECT_DIR$/src/threadDemo/threadFactory/DaemonThreadFactory.java" />
         <option value="$PROJECT_DIR$/src/threadDemo/ThreadVariations.java" />
+        <option value="$PROJECT_DIR$/src/packageClass/textDemo.java" />
+        <option value="$PROJECT_DIR$/src/packageClass/AutoBoxingUnboxing.java" />
+        <option value="$PROJECT_DIR$/src/packageClass/Primitive2String.java" />
+        <option value="$PROJECT_DIR$/src/Object/CompareClass.java" />
       </list>
     </option>
   </component>
@@ -233,11 +219,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="920" />
-    <option name="y" value="70" />
-    <option name="width" value="1010" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="515" />
+    <option name="y" value="90" />
+    <option name="width" value="1320" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,6 +231,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,13 +248,12 @@
               <item name="javaBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaBook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -308,13 +294,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadVariations">
-    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadDemo.Callable.CallableDemo" />
+  <component name="RunManager" selected="Application.CompareClass">
+    <configuration name="AutoBoxingUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packageClass.AutoBoxingUnboxing" />
       <module name="javaBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadDemo.Callable.*" />
+          <option name="PATTERN" value="packageClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadDemo.Callable.CallableTest" />
+    <configuration name="CompareClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Object.CompareClass" />
       <module name="javaBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadDemo.Callable.*" />
+          <option name="PATTERN" value="Object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,25 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadDemo.DaemonThread" />
+    <configuration name="Primitive2String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packageClass.Primitive2String" />
       <module name="javaBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadDemo.executor.FixedThreadPool" />
-      <module name="javaBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threadDemo.executor.*" />
+          <option name="PATTERN" value="packageClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,20 +347,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="textDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packageClass.textDemo" />
+      <module name="javaBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FixedThreadPool" />
-      <item itemvalue="Application.CallableTest" />
-      <item itemvalue="Application.CallableDemo" />
-      <item itemvalue="Application.DaemonThread" />
       <item itemvalue="Application.ThreadVariations" />
+      <item itemvalue="Application.textDemo" />
+      <item itemvalue="Application.AutoBoxingUnboxing" />
+      <item itemvalue="Application.Primitive2String" />
+      <item itemvalue="Application.CompareClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareClass" />
+        <item itemvalue="Application.Primitive2String" />
+        <item itemvalue="Application.AutoBoxingUnboxing" />
+        <item itemvalue="Application.textDemo" />
         <item itemvalue="Application.ThreadVariations" />
-        <item itemvalue="Application.DaemonThread" />
-        <item itemvalue="Application.CallableDemo" />
-        <item itemvalue="Application.CallableTest" />
-        <item itemvalue="Application.FixedThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -436,14 +422,16 @@
       <workItem from="1599575073612" duration="36000" />
       <workItem from="1599657157754" duration="5433000" />
       <workItem from="1599699888480" duration="598000" />
+      <workItem from="1599736328942" duration="3347000" />
+      <workItem from="1599788340833" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81982000" />
+    <option name="totallyTimeSpent" value="85350000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="412" y="72" width="1056" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -452,18 +440,18 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.20978552" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.21242484" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28445747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5021962" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28402367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50147927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32854578" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32854578" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32840237" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -586,6 +574,30 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Long.java</url>
+          <line>964</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Long.java</url>
+          <line>550</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Character.java</url>
+          <line>6510</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Character.java</url>
+          <line>6562</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
         <line-breakpoint type="java-method">
           <url>file://$PROJECT_DIR$/src/fifteen/serializable/Person.java</url>
           <line>47</line>
@@ -634,68 +646,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/demo/TestDraw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/lockDemo/DepositThread.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/lockDemo/TestDraw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/io/PipedCommunicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/threadGroup/ThreadGroupTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/exception/ExHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/threadPool/ThreadPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/io/PipedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/threadDemo/lockDemo/DrawThread.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1049,16 +999,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadDemo/JoinThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/threadDemo/ThreadVariations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
+        <state relative-caret-position="304">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1071,6 +1014,76 @@
             <element signature="e#3067#3068#0" expanded="true" />
             <element signature="e#3136#3137#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageClass/textDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageClass/AutoBoxingUnboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/packageClass/Primitive2String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10526">
+          <caret line="586" selection-start-line="586" selection-end-line="586" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121676">
+          <caret line="6510" selection-start-line="6510" selection-end-line="6510" />
+          <folding>
+            <element signature="e#151504#151505#0" expanded="true" />
+            <element signature="e#151538#151539#0" expanded="true" />
+            <element signature="e#233965#233966#0" expanded="true" />
+            <element signature="e#236253#236254#0" expanded="true" />
+            <element signature="e#236327#236328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/CharacterDataLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2831">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java_64/jdk1.8_64/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadDemo/JoinThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/CompareClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

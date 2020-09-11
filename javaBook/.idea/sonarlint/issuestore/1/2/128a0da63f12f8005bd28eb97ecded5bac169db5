@@ -1,0 +1,12 @@
+
+=
+java:S2129" Remove this "String" constructor(Î¤ò¼8ŸŠ€¿Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ×ÿûøÿÿÿÿ8Þ€ƒ¿Ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ýô„×8ŸŠ€¿Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¸ÌÐûÿÿÿÿ8ö•þ¾Ç.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(Ýô„×8Þ€ƒ¿Ç.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü‚×œ
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ÆÜ¬Ó8Ý§ù¾Ç.
+B
+java:S2129" Remove this "String" constructor(ÛªÄ´ÿÿÿÿÿ8Üüþ¾Ç.

@@ -1,0 +1,27 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Žýæþÿÿÿÿ8‹è•¾Ç.
+^
+java:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(í—…Ù8¡ƒ”¾Ç.
+C
+java:S2129
+"!Remove this "Integer" constructor(‡õõÿÿÿÿÿ8àºå½Ç.
+]
+java:S2130";Use "Float.parseFloat" for this string-to-float conversion.(ðìŒœûÿÿÿÿ8‹è•¾Ç.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¦ÔÇøÿÿÿÿ
+@
+java:S2129"#Remove this "Character" constructor(¼ÒÎ’8‡·÷½Ç.
+F
+java:S1481")Remove this unused "cObj" local variable.(¼ÒÎ’8‡·÷½Ç.
+>
+java:S2129"!Remove this "Boolean" constructor(‡ÈŒà8àºå½Ç.
+U
+java:S1854"8Remove this useless assignment to local variable "lObj".(·¾ØŒ8×Ìê½Ç.
+G
+java:S1481"*Remove this unused "blobj" local variable.(‡ÈŒà8àºå½Ç.
+V
+java:S1854"9Remove this useless assignment to local variable "blobj".(‡ÈŒà8àºå½Ç.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òê‰ñ
+F
+java:S1481")Remove this unused "lObj" local variable.(·¾ØŒ8×Ìê½Ç.
+U
+java:S1854"8Remove this useless assignment to local variable "cObj".(¼ÒÎ’8‡·÷½Ç.
